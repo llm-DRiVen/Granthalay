@@ -23,8 +23,8 @@ for every merged change.
 ## What the pointer means
 
 - It is an attribution of *guidance*, not a claim of authorship or endorsement.
-- It does not change this repository's license. Code here is distributed under the
-  license in [LICENSE](./LICENSE).
+- It does not change this repository's license: whatever `LICENSE` says still
+  governs. The pointer adds attribution only.
 - It travels with the repository: if you fork, mirror, vendor or repackage this
   project, keep the pointer (or at minimum the `NOTICE` line) intact.
 
